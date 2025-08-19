@@ -23,4 +23,8 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0978-valid-mountain-array](https://github.com/imsanupm/daily-DSA/tree/master/0978-valid-mountain-array) |
 <!---LeetCode Topics End-->
