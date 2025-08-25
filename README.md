@@ -26,11 +26,13 @@ Daily coding to strengthen logic and algorithms.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/imsanupm/daily-DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
 | [0978-valid-mountain-array](https://github.com/imsanupm/daily-DSA/tree/master/0978-valid-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/imsanupm/daily-DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
