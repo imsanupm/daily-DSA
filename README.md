@@ -24,12 +24,14 @@ Daily coding to strengthen logic and algorithms.
 | ------- |
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/imsanupm/daily-DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
 | [0978-valid-mountain-array](https://github.com/imsanupm/daily-DSA/tree/master/0978-valid-mountain-array) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +53,8 @@ Daily coding to strengthen logic and algorithms.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/imsanupm/daily-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0206-reverse-linked-list) |
+## Counting
+|  |
+| ------- |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->
