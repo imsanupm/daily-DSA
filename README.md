@@ -23,6 +23,7 @@ Daily coding to strengthen logic and algorithms.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/imsanupm/daily-DSA/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -62,5 +63,6 @@ Daily coding to strengthen logic and algorithms.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/imsanupm/daily-DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/imsanupm/daily-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
