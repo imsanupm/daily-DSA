@@ -13,6 +13,7 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/imsanupm/daily-DSA/tree/master/0258-add-digits) |
+| [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Daily coding to strengthen logic and algorithms.
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
 | [0978-valid-mountain-array](https://github.com/imsanupm/daily-DSA/tree/master/0978-valid-mountain-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +70,8 @@ Daily coding to strengthen logic and algorithms.
 | ------- |
 | [0020-valid-parentheses](https://github.com/imsanupm/daily-DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/imsanupm/daily-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
