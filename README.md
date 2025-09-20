@@ -7,6 +7,7 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/imsanupm/daily-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/imsanupm/daily-DSA/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -19,6 +20,7 @@ Daily coding to strengthen logic and algorithms.
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -39,6 +41,7 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/imsanupm/daily-DSA/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 ## Sorting
