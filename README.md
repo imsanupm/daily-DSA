@@ -13,6 +13,7 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/imsanupm/daily-DSA/tree/master/0258-add-digits) |
+| [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
 |  |
@@ -38,6 +39,7 @@ Daily coding to strengthen logic and algorithms.
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
 | [0978-valid-mountain-array](https://github.com/imsanupm/daily-DSA/tree/master/0978-valid-mountain-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
 ## Hash Table
 |  |
@@ -51,6 +53,7 @@ Daily coding to strengthen logic and algorithms.
 | ------- |
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
+| [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
 ## Linked List
 |  |
 | ------- |
@@ -74,4 +77,8 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
