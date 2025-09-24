@@ -28,6 +28,7 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/imsanupm/daily-DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/imsanupm/daily-DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -35,6 +36,7 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/imsanupm/daily-DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/imsanupm/daily-DSA/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/imsanupm/daily-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
 | [0978-valid-mountain-array](https://github.com/imsanupm/daily-DSA/tree/master/0978-valid-mountain-array) |
@@ -45,12 +47,14 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/imsanupm/daily-DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/imsanupm/daily-DSA/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/imsanupm/daily-DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 | [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
