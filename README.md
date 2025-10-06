@@ -9,6 +9,7 @@ Daily coding to strengthen logic and algorithms.
 | [0150-evaluate-reverse-polish-notation](https://github.com/imsanupm/daily-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/imsanupm/daily-DSA/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/imsanupm/daily-DSA/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Daily coding to strengthen logic and algorithms.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/imsanupm/daily-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/imsanupm/daily-DSA/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -114,4 +116,12 @@ Daily coding to strengthen logic and algorithms.
 | ------- |
 | [0739-daily-temperatures](https://github.com/imsanupm/daily-DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/imsanupm/daily-DSA/tree/master/0883-car-fleet) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/imsanupm/daily-DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/imsanupm/daily-DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
