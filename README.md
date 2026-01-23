@@ -10,6 +10,7 @@ Daily coding to strengthen logic and algorithms.
 | [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/imsanupm/daily-DSA/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/imsanupm/daily-DSA/tree/master/1013-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imsanupm/daily-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -156,4 +157,8 @@ Daily coding to strengthen logic and algorithms.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/imsanupm/daily-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/imsanupm/daily-DSA/tree/master/0226-invert-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imsanupm/daily-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
