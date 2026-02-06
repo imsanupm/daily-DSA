@@ -140,6 +140,7 @@ Daily coding to strengthen logic and algorithms.
 | [0144-binary-tree-preorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/imsanupm/daily-DSA/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/imsanupm/daily-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/imsanupm/daily-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/imsanupm/daily-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/imsanupm/daily-DSA/tree/master/0938-range-sum-of-bst) |
@@ -151,6 +152,7 @@ Daily coding to strengthen logic and algorithms.
 | [0144-binary-tree-preorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/imsanupm/daily-DSA/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/imsanupm/daily-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/imsanupm/daily-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/imsanupm/daily-DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -161,6 +163,7 @@ Daily coding to strengthen logic and algorithms.
 | [0144-binary-tree-preorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/imsanupm/daily-DSA/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/imsanupm/daily-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/imsanupm/daily-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/imsanupm/daily-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/imsanupm/daily-DSA/tree/master/0938-range-sum-of-bst) |
@@ -176,6 +179,7 @@ Daily coding to strengthen logic and algorithms.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/imsanupm/daily-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/imsanupm/daily-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/imsanupm/daily-DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
