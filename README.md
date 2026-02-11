@@ -43,6 +43,7 @@ Daily coding to strengthen logic and algorithms.
 | [0049-group-anagrams](https://github.com/imsanupm/daily-DSA/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/imsanupm/daily-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/imsanupm/daily-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/imsanupm/daily-DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/imsanupm/daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/imsanupm/daily-DSA/tree/master/0739-daily-temperatures) |
@@ -59,6 +60,7 @@ Daily coding to strengthen logic and algorithms.
 | [0049-group-anagrams](https://github.com/imsanupm/daily-DSA/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/imsanupm/daily-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/imsanupm/daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1207-unique-number-of-occurrences](https://github.com/imsanupm/daily-DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -193,4 +195,8 @@ Daily coding to strengthen logic and algorithms.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/imsanupm/daily-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/imsanupm/daily-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/imsanupm/daily-DSA/tree/master/0938-range-sum-of-bst) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/imsanupm/daily-DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
