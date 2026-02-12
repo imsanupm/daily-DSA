@@ -27,6 +27,7 @@ Daily coding to strengthen logic and algorithms.
 | [0027-remove-element](https://github.com/imsanupm/daily-DSA/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Daily coding to strengthen logic and algorithms.
 | [0049-group-anagrams](https://github.com/imsanupm/daily-DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Array
 |  |
