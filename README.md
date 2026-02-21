@@ -43,6 +43,7 @@ Daily coding to strengthen logic and algorithms.
 | [0001-two-sum](https://github.com/imsanupm/daily-DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/imsanupm/daily-DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/imsanupm/daily-DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/imsanupm/daily-DSA/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/imsanupm/daily-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/imsanupm/daily-DSA/tree/master/0219-contains-duplicate-ii) |
@@ -116,6 +117,7 @@ Daily coding to strengthen logic and algorithms.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/imsanupm/daily-DSA/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/imsanupm/daily-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -133,6 +135,7 @@ Daily coding to strengthen logic and algorithms.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/imsanupm/daily-DSA/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/imsanupm/daily-DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
