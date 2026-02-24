@@ -24,6 +24,7 @@ Daily coding to strengthen logic and algorithms.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/imsanupm/daily-DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/imsanupm/daily-DSA/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
@@ -41,6 +42,7 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/imsanupm/daily-DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/imsanupm/daily-DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/imsanupm/daily-DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/imsanupm/daily-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/imsanupm/daily-DSA/tree/master/0053-maximum-subarray) |
@@ -206,4 +208,8 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/imsanupm/daily-DSA/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/imsanupm/daily-DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
