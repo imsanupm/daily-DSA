@@ -26,6 +26,7 @@ Daily coding to strengthen logic and algorithms.
 | ------- |
 | [0011-container-with-most-water](https://github.com/imsanupm/daily-DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/imsanupm/daily-DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/imsanupm/daily-DSA/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -44,6 +45,7 @@ Daily coding to strengthen logic and algorithms.
 | [0001-two-sum](https://github.com/imsanupm/daily-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/imsanupm/daily-DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/imsanupm/daily-DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/imsanupm/daily-DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/imsanupm/daily-DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/imsanupm/daily-DSA/tree/master/0053-maximum-subarray) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/imsanupm/daily-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -100,6 +102,7 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/imsanupm/daily-DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/imsanupm/daily-DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -132,11 +135,13 @@ Daily coding to strengthen logic and algorithms.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/imsanupm/daily-DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/imsanupm/daily-DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/imsanupm/daily-DSA/tree/master/0883-car-fleet) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/imsanupm/daily-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/imsanupm/daily-DSA/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/imsanupm/daily-DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
