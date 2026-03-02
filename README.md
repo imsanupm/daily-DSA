@@ -31,6 +31,7 @@ Daily coding to strengthen logic and algorithms.
 | [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Daily coding to strengthen logic and algorithms.
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Array
 |  |
@@ -75,6 +77,7 @@ Daily coding to strengthen logic and algorithms.
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/imsanupm/daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imsanupm/daily-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
 | [1207-unique-number-of-occurrences](https://github.com/imsanupm/daily-DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
@@ -221,4 +224,5 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/imsanupm/daily-DSA/tree/master/0011-container-with-most-water) |
+| [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
