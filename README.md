@@ -29,6 +29,7 @@ Daily coding to strengthen logic and algorithms.
 | [0027-remove-element](https://github.com/imsanupm/daily-DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/imsanupm/daily-DSA/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
@@ -93,11 +94,13 @@ Daily coding to strengthen logic and algorithms.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/imsanupm/daily-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/imsanupm/daily-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/imsanupm/daily-DSA/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
@@ -113,6 +116,7 @@ Daily coding to strengthen logic and algorithms.
 | [0144-binary-tree-preorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/imsanupm/daily-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/imsanupm/daily-DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/imsanupm/daily-DSA/tree/master/0883-car-fleet) |
 ## Prefix Sum
