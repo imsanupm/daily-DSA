@@ -33,6 +33,7 @@ Daily coding to strengthen logic and algorithms.
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/imsanupm/daily-DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ Daily coding to strengthen logic and algorithms.
 | [0883-car-fleet](https://github.com/imsanupm/daily-DSA/tree/master/0883-car-fleet) |
 | [0978-valid-mountain-array](https://github.com/imsanupm/daily-DSA/tree/master/0978-valid-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/imsanupm/daily-DSA/tree/master/1207-unique-number-of-occurrences) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/imsanupm/daily-DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
@@ -80,6 +82,7 @@ Daily coding to strengthen logic and algorithms.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imsanupm/daily-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
 | [1207-unique-number-of-occurrences](https://github.com/imsanupm/daily-DSA/tree/master/1207-unique-number-of-occurrences) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/imsanupm/daily-DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
