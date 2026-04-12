@@ -46,6 +46,7 @@ Daily coding to strengthen logic and algorithms.
 | [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imsanupm/daily-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3110-score-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |
