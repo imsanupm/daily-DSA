@@ -75,6 +75,7 @@ Daily coding to strengthen logic and algorithms.
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imsanupm/daily-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/imsanupm/daily-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/imsanupm/daily-DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2574-left-and-right-sum-differences](https://github.com/imsanupm/daily-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
@@ -141,6 +142,7 @@ Daily coding to strengthen logic and algorithms.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/imsanupm/daily-DSA/tree/master/0238-product-of-array-except-self) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imsanupm/daily-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2574-left-and-right-sum-differences](https://github.com/imsanupm/daily-DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
 ## Heap (Priority Queue)
 |  |
