@@ -79,6 +79,7 @@ Daily coding to strengthen logic and algorithms.
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
+| [3731-find-missing-elements](https://github.com/imsanupm/daily-DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Daily coding to strengthen logic and algorithms.
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/imsanupm/daily-DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1512-number-of-good-pairs](https://github.com/imsanupm/daily-DSA/tree/master/1512-number-of-good-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/imsanupm/daily-DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [3731-find-missing-elements](https://github.com/imsanupm/daily-DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Daily coding to strengthen logic and algorithms.
 | [0347-top-k-frequent-elements](https://github.com/imsanupm/daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/imsanupm/daily-DSA/tree/master/0883-car-fleet) |
 | [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
+| [3731-find-missing-elements](https://github.com/imsanupm/daily-DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
