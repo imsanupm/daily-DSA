@@ -72,6 +72,7 @@ Daily coding to strengthen logic and algorithms.
 | [0978-valid-mountain-array](https://github.com/imsanupm/daily-DSA/tree/master/0978-valid-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/imsanupm/daily-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/imsanupm/daily-DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imsanupm/daily-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/imsanupm/daily-DSA/tree/master/1512-number-of-good-pairs) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imsanupm/daily-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/imsanupm/daily-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -97,6 +98,7 @@ Daily coding to strengthen logic and algorithms.
 | [0771-jewels-and-stones](https://github.com/imsanupm/daily-DSA/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/imsanupm/daily-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/imsanupm/daily-DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imsanupm/daily-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/imsanupm/daily-DSA/tree/master/1512-number-of-good-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/imsanupm/daily-DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3731-find-missing-elements](https://github.com/imsanupm/daily-DSA/tree/master/3731-find-missing-elements) |
@@ -108,6 +110,7 @@ Daily coding to strengthen logic and algorithms.
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/imsanupm/daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/imsanupm/daily-DSA/tree/master/0883-car-fleet) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imsanupm/daily-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/imsanupm/daily-DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -254,4 +257,8 @@ Daily coding to strengthen logic and algorithms.
 | [0011-container-with-most-water](https://github.com/imsanupm/daily-DSA/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/imsanupm/daily-DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imsanupm/daily-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
