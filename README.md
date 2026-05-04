@@ -12,6 +12,7 @@ Daily coding to strengthen logic and algorithms.
 | [1013-fibonacci-number](https://github.com/imsanupm/daily-DSA/tree/master/1013-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imsanupm/daily-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/imsanupm/daily-DSA/tree/master/1512-number-of-good-pairs) |
+| [2119-a-number-after-a-double-reversal](https://github.com/imsanupm/daily-DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2769-find-the-maximum-achievable-number](https://github.com/imsanupm/daily-DSA/tree/master/2769-find-the-maximum-achievable-number) |
 ## Simulation
 |  |
