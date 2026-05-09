@@ -75,6 +75,7 @@ Daily coding to strengthen logic and algorithms.
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/imsanupm/daily-DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imsanupm/daily-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/imsanupm/daily-DSA/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/imsanupm/daily-DSA/tree/master/1534-count-good-triplets) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imsanupm/daily-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/imsanupm/daily-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/imsanupm/daily-DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -263,4 +264,8 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imsanupm/daily-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/imsanupm/daily-DSA/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
