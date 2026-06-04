@@ -14,6 +14,7 @@ Daily coding to strengthen logic and algorithms.
 | [1512-number-of-good-pairs](https://github.com/imsanupm/daily-DSA/tree/master/1512-number-of-good-pairs) |
 | [2119-a-number-after-a-double-reversal](https://github.com/imsanupm/daily-DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2769-find-the-maximum-achievable-number](https://github.com/imsanupm/daily-DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [3895-count-digit-appearances](https://github.com/imsanupm/daily-DSA/tree/master/3895-count-digit-appearances) |
 ## Simulation
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Daily coding to strengthen logic and algorithms.
 | [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
 | [3731-find-missing-elements](https://github.com/imsanupm/daily-DSA/tree/master/3731-find-missing-elements) |
+| [3895-count-digit-appearances](https://github.com/imsanupm/daily-DSA/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
 | ------- |
