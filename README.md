@@ -32,6 +32,7 @@ Daily coding to strengthen logic and algorithms.
 | [0011-container-with-most-water](https://github.com/imsanupm/daily-DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/imsanupm/daily-DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/imsanupm/daily-DSA/tree/master/0042-trapping-rain-water) |
+| [0151-reverse-words-in-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
@@ -45,6 +46,7 @@ Daily coding to strengthen logic and algorithms.
 | [0003-longest-substring-without-repeating-characters](https://github.com/imsanupm/daily-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/imsanupm/daily-DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/imsanupm/daily-DSA/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0345-reverse-vowels-of-a-string) |
