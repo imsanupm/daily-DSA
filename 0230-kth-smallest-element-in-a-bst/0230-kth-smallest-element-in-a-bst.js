@@ -14,17 +14,19 @@
 var kthSmallest = function(root, k) {
     let count = 0;
     let result = null;
-    let findSmall=(node)=>{
-        if(!node || result!==null)return ;
 
-        findSmall(node.left);
+    function dfs(node){
+        if(!node|| result!=null) return;
+
+        dfs(node.left);
         count++;
-        if(k==count){
-            console.log(root.val)
+        if(count==k){
             result = node.val;
+            return;
         };
-        findSmall(node.right);
+        dfs(node.right)
+
     };
-     findSmall(root);
-     return result
+    dfs(root);
+    return result
 };
