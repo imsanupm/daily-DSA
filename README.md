@@ -213,6 +213,7 @@ Daily coding to strengthen logic and algorithms.
 | [0450-delete-node-in-a-bst](https://github.com/imsanupm/daily-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/imsanupm/daily-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/imsanupm/daily-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/imsanupm/daily-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/imsanupm/daily-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/imsanupm/daily-DSA/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -229,6 +230,7 @@ Daily coding to strengthen logic and algorithms.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/imsanupm/daily-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/imsanupm/daily-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/imsanupm/daily-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/imsanupm/daily-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/imsanupm/daily-DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -245,6 +247,7 @@ Daily coding to strengthen logic and algorithms.
 | [0450-delete-node-in-a-bst](https://github.com/imsanupm/daily-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/imsanupm/daily-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/imsanupm/daily-DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/imsanupm/daily-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/imsanupm/daily-DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/imsanupm/daily-DSA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
@@ -286,4 +289,12 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/imsanupm/daily-DSA/tree/master/1534-count-good-triplets) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/imsanupm/daily-DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/imsanupm/daily-DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
