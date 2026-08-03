@@ -26,9 +26,9 @@ var goodNodes = function (root) {
 
         };
 
-        dfs(node.left, Math.max(node.val, maxVal));
+        dfs(node.left, maxVal);
 
-        dfs(node.right, Math.max(node.val, maxVal))
+        dfs(node.right, maxVal)
 
     };
 
