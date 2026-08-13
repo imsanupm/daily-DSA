@@ -19,6 +19,7 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/imsanupm/daily-DSA/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/imsanupm/daily-DSA/tree/master/0832-flipping-an-image) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/imsanupm/daily-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
@@ -38,6 +39,7 @@ Daily coding to strengthen logic and algorithms.
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
+| [0832-flipping-an-image](https://github.com/imsanupm/daily-DSA/tree/master/0832-flipping-an-image) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/imsanupm/daily-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/imsanupm/daily-DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
@@ -73,6 +75,7 @@ Daily coding to strengthen logic and algorithms.
 | [0347-top-k-frequent-elements](https://github.com/imsanupm/daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imsanupm/daily-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/imsanupm/daily-DSA/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/imsanupm/daily-DSA/tree/master/0832-flipping-an-image) |
 | [0883-car-fleet](https://github.com/imsanupm/daily-DSA/tree/master/0883-car-fleet) |
 | [0978-valid-mountain-array](https://github.com/imsanupm/daily-DSA/tree/master/0978-valid-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/imsanupm/daily-DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -274,6 +277,7 @@ Daily coding to strengthen logic and algorithms.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/imsanupm/daily-DSA/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/imsanupm/daily-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search Tree
 |  |
@@ -312,4 +316,8 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/imsanupm/daily-DSA/tree/master/0572-subtree-of-another-tree) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/imsanupm/daily-DSA/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
