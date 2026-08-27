@@ -36,6 +36,7 @@ Daily coding to strengthen logic and algorithms.
 | [0151-reverse-words-in-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/imsanupm/daily-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
@@ -72,6 +73,7 @@ Daily coding to strengthen logic and algorithms.
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/imsanupm/daily-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/imsanupm/daily-DSA/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/imsanupm/daily-DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/imsanupm/daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imsanupm/daily-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/imsanupm/daily-DSA/tree/master/0739-daily-temperatures) |
