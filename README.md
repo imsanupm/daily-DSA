@@ -41,6 +41,7 @@ Daily coding to strengthen logic and algorithms.
 | [0345-reverse-vowels-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/imsanupm/daily-DSA/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/imsanupm/daily-DSA/tree/master/0905-sort-array-by-parity) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/imsanupm/daily-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/imsanupm/daily-DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
@@ -79,6 +80,7 @@ Daily coding to strengthen logic and algorithms.
 | [0739-daily-temperatures](https://github.com/imsanupm/daily-DSA/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/imsanupm/daily-DSA/tree/master/0832-flipping-an-image) |
 | [0883-car-fleet](https://github.com/imsanupm/daily-DSA/tree/master/0883-car-fleet) |
+| [0905-sort-array-by-parity](https://github.com/imsanupm/daily-DSA/tree/master/0905-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/imsanupm/daily-DSA/tree/master/0978-valid-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/imsanupm/daily-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/imsanupm/daily-DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -127,6 +129,7 @@ Daily coding to strengthen logic and algorithms.
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/imsanupm/daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/imsanupm/daily-DSA/tree/master/0883-car-fleet) |
+| [0905-sort-array-by-parity](https://github.com/imsanupm/daily-DSA/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imsanupm/daily-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/imsanupm/daily-DSA/tree/master/2418-sort-the-people) |
 | [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
