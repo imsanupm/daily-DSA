@@ -33,6 +33,7 @@ Daily coding to strengthen logic and algorithms.
 | [0011-container-with-most-water](https://github.com/imsanupm/daily-DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/imsanupm/daily-DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/imsanupm/daily-DSA/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/imsanupm/daily-DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/imsanupm/daily-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0234-palindrome-linked-list) |
@@ -138,12 +139,14 @@ Daily coding to strengthen logic and algorithms.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/imsanupm/daily-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/imsanupm/daily-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/imsanupm/daily-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/imsanupm/daily-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/imsanupm/daily-DSA/tree/master/1013-fibonacci-number) |
@@ -159,6 +162,7 @@ Daily coding to strengthen logic and algorithms.
 | [0020-valid-parentheses](https://github.com/imsanupm/daily-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/imsanupm/daily-DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/imsanupm/daily-DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imsanupm/daily-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/imsanupm/daily-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
