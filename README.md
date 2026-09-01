@@ -40,6 +40,7 @@ Daily coding to strengthen logic and algorithms.
 | [0283-move-zeroes](https://github.com/imsanupm/daily-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/imsanupm/daily-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/imsanupm/daily-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/imsanupm/daily-DSA/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/imsanupm/daily-DSA/tree/master/0905-sort-array-by-parity) |
@@ -77,6 +78,7 @@ Daily coding to strengthen logic and algorithms.
 | [0238-product-of-array-except-self](https://github.com/imsanupm/daily-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/imsanupm/daily-DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/imsanupm/daily-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/imsanupm/daily-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imsanupm/daily-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/imsanupm/daily-DSA/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/imsanupm/daily-DSA/tree/master/0832-flipping-an-image) |
@@ -111,6 +113,7 @@ Daily coding to strengthen logic and algorithms.
 | [0219-contains-duplicate-ii](https://github.com/imsanupm/daily-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/imsanupm/daily-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/imsanupm/daily-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imsanupm/daily-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/imsanupm/daily-DSA/tree/master/0771-jewels-and-stones) |
@@ -129,6 +132,7 @@ Daily coding to strengthen logic and algorithms.
 | [0217-contains-duplicate](https://github.com/imsanupm/daily-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imsanupm/daily-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/imsanupm/daily-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/imsanupm/daily-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0883-car-fleet](https://github.com/imsanupm/daily-DSA/tree/master/0883-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/imsanupm/daily-DSA/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imsanupm/daily-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -294,6 +298,7 @@ Daily coding to strengthen logic and algorithms.
 | [0098-validate-binary-search-tree](https://github.com/imsanupm/daily-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/imsanupm/daily-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imsanupm/daily-DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/imsanupm/daily-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/imsanupm/daily-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/imsanupm/daily-DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/imsanupm/daily-DSA/tree/master/0700-search-in-a-binary-search-tree) |
