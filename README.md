@@ -44,6 +44,7 @@ Daily coding to strengthen logic and algorithms.
 | [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/imsanupm/daily-DSA/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/imsanupm/daily-DSA/tree/master/0905-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/imsanupm/daily-DSA/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/imsanupm/daily-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/imsanupm/daily-DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
@@ -58,6 +59,7 @@ Daily coding to strengthen logic and algorithms.
 | [0345-reverse-vowels-of-a-string](https://github.com/imsanupm/daily-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/imsanupm/daily-DSA/tree/master/0771-jewels-and-stones) |
+| [1768-merge-strings-alternately](https://github.com/imsanupm/daily-DSA/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imsanupm/daily-DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2418-sort-the-people](https://github.com/imsanupm/daily-DSA/tree/master/2418-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/imsanupm/daily-DSA/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
