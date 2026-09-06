@@ -21,6 +21,7 @@ Daily coding to strengthen logic and algorithms.
 | [0258-add-digits](https://github.com/imsanupm/daily-DSA/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/imsanupm/daily-DSA/tree/master/0832-flipping-an-image) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/imsanupm/daily-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/imsanupm/daily-DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
@@ -149,6 +150,7 @@ Daily coding to strengthen logic and algorithms.
 | [0206-reverse-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/imsanupm/daily-DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/imsanupm/daily-DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
