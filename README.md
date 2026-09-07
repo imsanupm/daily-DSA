@@ -48,6 +48,7 @@ Daily coding to strengthen logic and algorithms.
 | [1768-merge-strings-alternately](https://github.com/imsanupm/daily-DSA/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/imsanupm/daily-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/imsanupm/daily-DSA/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/imsanupm/daily-DSA/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Daily coding to strengthen logic and algorithms.
 | [3311-ant-on-the-boundary](https://github.com/imsanupm/daily-DSA/tree/master/3311-ant-on-the-boundary) |
 | [3731-find-missing-elements](https://github.com/imsanupm/daily-DSA/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/imsanupm/daily-DSA/tree/master/3895-count-digit-appearances) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/imsanupm/daily-DSA/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Daily coding to strengthen logic and algorithms.
 | [2418-sort-the-people](https://github.com/imsanupm/daily-DSA/tree/master/2418-sort-the-people) |
 | [3226-minimum-number-game](https://github.com/imsanupm/daily-DSA/tree/master/3226-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/imsanupm/daily-DSA/tree/master/3731-find-missing-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/imsanupm/daily-DSA/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Linked List
 |  |
 | ------- |
@@ -319,6 +322,7 @@ Daily coding to strengthen logic and algorithms.
 | [0011-container-with-most-water](https://github.com/imsanupm/daily-DSA/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/imsanupm/daily-DSA/tree/master/0763-partition-labels) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/imsanupm/daily-DSA/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/imsanupm/daily-DSA/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Counting Sort
 |  |
 | ------- |
